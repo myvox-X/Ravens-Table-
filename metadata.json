@@ -1,0 +1,6 @@
+{
+  "name": "L'Éclipse Restaurant",
+  "description": "An elegant, premium, modern luxury restaurant website featuring dynamic menus, interactive reservations, chef bios, and exquisite dark red and black aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
